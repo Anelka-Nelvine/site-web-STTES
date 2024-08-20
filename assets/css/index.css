@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Hebrew:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    --primary-color : rgb(0,0,255);
+    --secondary-color : rgb( 119 , 181 , 254);
+    --text-color : rgb(0,0,0);
+    --title-color : rgb(114, 178, 235);
+    --font-size: 1rem;
+    --font-family: "IBM Plex Sans Hebrew", sans-serif;
+}
+*{
+    margin: 0;
+    padding:0;
+    border: 0;
+}
